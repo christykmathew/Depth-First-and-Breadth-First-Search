@@ -1,4 +1,4 @@
-<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8.3-blue"></a>
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3-blue"></a>
 
 # Depth-First-and-Breadth-First-Search
 Breadth First Search is a vertex based technique for finding a shortest path in graph whereas Depth First Search is a edge based technique.
