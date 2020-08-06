@@ -8,7 +8,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 sample_text = open("/content/drive/My Drive/sample.txt")
 ```
-<i>sample.txt</i> is format given below. The First Line is the number of nodes and edges and the second line is the start_node and the goal_node.
+<i>sample.txt</i> format is given below. The First Line is the number of nodes and edges and the second line is the start_node and the goal_node.
 ```
 8 13
 S G
