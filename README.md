@@ -1,4 +1,4 @@
-<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a> [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christykmathew/Depth-First-and-Breadth-First-Search/blob/master/DFS and BFS.ipynb)
+<a href="https://www.python.org/downloads/release/python-383/"><img src="https://img.shields.io/badge/Python-v3.8-blue"></a> [![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/christykmathew/Depth-First-and-Breadth-First-Search/blob/master/DFS%20and%20BFS.ipynb)
 
 # Depth First Search and Breadth First Search
 Breadth First Search is a vertex based technique for finding a shortest path in graph whereas Depth First Search is a edge based technique.
